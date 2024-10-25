@@ -20,12 +20,6 @@
 
 ## Table of Contents
 
-#### • [Economy with MySQL](https://github.com/Modern-Realm/economy-bot-discord.py/tree/main/economy%20with%20MYSQL)
-
-#### • [Economy with SQLite3](https://github.com/Modern-Realm/economy-bot-discord.py/tree/main/economy%20with%20SQLITE3)
-
-#### • [Economy with AioSQLite](https://github.com/Modern-Realm/economy-bot-discord.py/tree/main/economy%20with%20aiosqlite)
-
 #### • [Economy with MongoDB](https://github.com/Modern-Realm/economy-bot-discord.py/tree/main/economy%20with%20mongoDB)
 
 <br/>
